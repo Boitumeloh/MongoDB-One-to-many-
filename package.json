@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "mongoose": "^8.7.2"
+  },
+  "devDependencies": {
+    "eslint-plugin-import": "^2.31.0"
+  },
+  "rules": {
+  "import/no-unresolved": "error",
+  "import/no-mutable-exports": "error"
+}
+}
